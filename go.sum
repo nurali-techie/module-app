@@ -1,2 +1,4 @@
 github.com/nurali-techie/module-demo v1.1.0 h1:D+1Xf/i3QxyzHR7V+Y2uIe1z2tdlufr88nYk6X3nmC0=
 github.com/nurali-techie/module-demo v1.1.0/go.mod h1:TrgYwZbZDm6DKMx1N9YKF1G0bY685SlT/M+0Fk1e51s=
+github.com/nurali-techie/module-demo/v2 v2.0.0 h1:pNOi4MY7WOl7dL3MlE/DFlIPgRzR/daHZP/yKTvWr0I=
+github.com/nurali-techie/module-demo/v2 v2.0.0/go.mod h1:MpDpwzpMUVbAn0OFq+xgE/Wr/LvuzFK45Awgu8njMcQ=
